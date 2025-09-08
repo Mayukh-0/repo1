@@ -1,1 +1,1 @@
-This HTML file was pushed from collage pc.
+This REPO was pushed from collage pc.
